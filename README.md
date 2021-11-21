@@ -1,4 +1,4 @@
-# ruffierTestCheck
+# HRTA | Heart Ruffier Test App
 ## Файлы
 Название        | Назначение
 ----------------|-------------------------
